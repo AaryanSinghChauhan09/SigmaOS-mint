@@ -3,7 +3,7 @@ name = "SigmaOS-mint"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "mint component"
+description = "Mint distribution compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
